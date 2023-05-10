@@ -25,3 +25,7 @@
 ## Dashboard & Portfolio
 
 ## Notifikasi
+
+- Cek SID (Single Investor Identification). Apakah SID sudah ada atau belum?
+- Jika SID sudah ada, maka tidak user tidak menampilkan pendaftaran reksadana
+- Jika SID belum ada, maka user harus mendaftar akun reksadana dari awal
