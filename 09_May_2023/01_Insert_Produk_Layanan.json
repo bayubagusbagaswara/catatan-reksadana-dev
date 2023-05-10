@@ -1,0 +1,16 @@
+{
+  "CREATED_BY": "SYSTEM",
+  "CREATED_DATE": "2023-03-27T03:53:43.018Z",
+  "DESCRIPTION": "Produk dan Layanan Reksadana",
+  "MODIFIED_BY": null,
+  "MODIFIED_DATE": null,
+  "MODULE": "REKSADANA_PRODUCT_LAYANAN",
+  "NAME": "INVEST_OPENING_REKSADANA",
+  "VALUE": "-",
+  "LANGUAGE": "IDN",
+  "ORDERING": 1,
+  "LABEL1": null,
+  "LABEL2": null,
+  "IMAGE_URL": null,
+  "ADDITIONAL_DATA": ""
+}
