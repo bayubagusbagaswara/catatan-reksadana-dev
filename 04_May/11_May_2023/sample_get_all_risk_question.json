@@ -1,5 +1,5 @@
 {
-  "riskProfileQuestionDTOList": [
+  "question": [
     {
       "code": "REKSADANA_QUESTION1",
       "questionSession": "1",
