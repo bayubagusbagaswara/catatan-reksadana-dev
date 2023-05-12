@@ -46,3 +46,24 @@
 - ada 5 pertanyaan (kita coba ambil pertanyaan 5 dari 10 mulai paling bawah)
 
 2. Ketika klik "Lihat selengkapnya", maka hit service get pertanyaan terpopuler dan pertanyaan per kategori
+
+## FAQ
+
+- FAQ table ditulis dalam paragraf saja
+
+- cukup mengembalikan 1 service tapi data 3 arrays
+
+```json
+{
+  "faqDefault": [{}, {}, {}, {}, {}],
+  "faqTerpopuler": [{}, {}, {}, {}, {}],
+  "faqPerCategory": [
+    [{}, {}],
+    [{}, {}],
+    [{}, {}],
+    [{}, {}],
+    [{}, {}],
+    [{}, {}]
+  ]
+}
+```
