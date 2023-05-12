@@ -1,0 +1,24 @@
+{
+  "faqDefault": [
+    {
+      "question": "Apakah yang dimaksud dengan produk reksa dana pasar campuran?",
+      "answer": ": Produk yang penempatan investasinya menggunakan Porsi berimbang antara saham dan sukuk sehingga berfluktuasi moderat. Risiko produk ini sedang dan potensi hasil sedang. Reksa Dana Campuran baik untuk investor moderat (3–5 tahun) yang ingin menikmati potensi dari saham dan sukuk."
+    },
+    {
+      "question": "Apakah yang dimaksud dengan produk reksa dana saham?",
+      "answer": "Produk yang penempatan investasinya adalah minimal 80% saham sehingga berfluktuasi dengan agresif. RIsiko produk ini tinggi dan potensi hasil juga tinggi. Reksa Dana Saham baik untuk investasi jangka panjang (5->10 tahun)."
+    },
+    {
+      "question": "Fitur apa aja yang tersedia pada menu reksa dana saat ini?",
+      "answer": "Registrasi, Pembelian, Penjualan, dan Portfolio. Untuk fitur History, Switching dan Beli Rutin akan dirilis pada fase berikutnya"
+    },
+    {
+      "question": "Apakah ada jam operasional transaksi di mobile apps?",
+      "answer": "Seluruh fitur dapat diakses dan ditransaksikan selama 24 jam/7 hari"
+    },
+    {
+      "question": "Apakah produk reksa dana dan perusahaan investasi dijamin regulator?",
+      "answer": "Dana investasi dikelola oleh perusahaan yang memiliki izin dan diawasi oleh Otoritas Jasa Keuangan (OJK)."
+    }
+  ]
+}

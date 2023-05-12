@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Apa yang harus dilakukan nasabah apabila SID Nasabah di blokir?",
+    "answer": "Nasabah diarahkan melakukan pengaktifan dengan melakukan kontak ke Call Center atau Cabang BSI"
+  },
+  {
+    "question": "Bagaimana jika profil risiko nasabah expired?",
+    "answer": "Nasabah akan mendapatkan pop up transaksi apabila profil risiko expired dan nasabah diarahkan melakukan pengisian profil risiko"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "faqPopuler": [
+    {
+      "question": "Apa itu reksa dana?",
+      "answer": "Adalah wadah yang menggabungkan modal dari banyak investor, berinvestasi pada beragam instrumen, serta dikelola secara profesional oleh perusahaan pengelola aset (Manajer Investasi)"
+    },
+    {
+      "question": "Apa keunggulan reksa dana bagi nasabah?",
+      "answer": "Fleksibel (Banyak pilihan produk sesuai kebutuhan investasi)</br>Likuid (Bisa dicairkan kapan saja, tanpa jangka waktu)</br>Aman (Terdaftar dan diawasi OJK)</br>Bebas pajak (Hasil investasi reksa dana tidak dipotong pajak)"
+    },
+    {
+      "question": "Apa perbedaan Reksadana Syariah dan Konvensional",
+      "answer": "Syariah: Dikelola sesuai prinsip syariah. Investasi hanya pada Efek Syariah. Terdapat mekanisme pembersihan harta Non-Halal (Cleansing). Wajib dikelola oleh profesional yang mengerti kegiatan yang dilarang berdasarkan prinsip syariah. Konvensional: Dikelola tanpa memperhatikan prinsip syariah. Investasi pada Seluruh Efek. Tidak menggunakan konsep pembersihan harta. Tidak perlu profesional yang mengerti kegiatan yang dilarang berdasarkan prinsip syariah."
+    },
+    {
+      "question": "Apakah yang dimaksud dengan produk reksa dana pasar uang?",
+      "answer": "Produk yang penempatan investasinya hanya pada instrumen pasar uang berjangka (<1 tahun) dan deposito. Risiko produk ini sangat kecil. Reksa Dana ini sangat baik untuk investor yang sangat konservatif dengan tujuan investasi jangka pendek (0-1 tahun), dan baru mulai belajar berinvestasi."
+    },
+    {
+      "question": "Apakah yang dimaksud dengan produk reksa dana pendapatan tetap?",
+      "answer": "Produk yang komposisi penempatan investasinya adalah minimal 80% Sukuk, sehingga tidak terlalu berfluktuasi. Risiko produk ini rendah dan potensi hasil juga relatif rendah. Reksa Dana Pendapatan Tetap baik untuk investor konservatif (1-3 tahun) dengan jangka waktu investasi pendek"
+    }
+  ]
+}

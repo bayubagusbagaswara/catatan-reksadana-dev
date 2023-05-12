@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Bagaimana cara melakukan pengajuan pembelian reksa dana?",
+    "answer": "Nasabah dapat membeli melalui fitur beli dan melalui proses explorasi produk Pengajuan Pembelian Reksa Dana Online"
+  },
+  {
+    "question": "Apa saja poin informasi yang dapat diperhatikan nasabah ketika melakukan proses pembelian reksa dana?",
+    "answer": "Nasabah dapat mengetahui informasi ketentuan produk, kinerja produk dalam kurun waktu tertentu, dan informasi detail performa manajer investasi pada dokumen prospectus serta fund fact sheet dan NAV (harga reksadana)"
+  },
+  {
+    "question": "Berapa lama waktu yang diperlukan untuk pengajuan pembelian reksa dana?",
+    "answer": "Lama waktu (SLA) pengajuan pembelian maksimal 3 Hari Bursa (Hari Kerja KSEI)"
+  },
+  {
+    "question": "Apakah ada biaya pada proses pengajuan pembelian reksa dana?",
+    "answer": "Untuk Reksa Dana Pasar Uang, nasabah tidak dikenakan biaya pembelian (subscription fee). Namun, untuk Reksa Dana non Pasar Uang, nasabah dikenakan biaya pembelian sebesar 1%-1,5% tergantung produk Reksa Dana yang dibeli nasabah."
+  },
+  {
+    "question": "Apakah terdapat pembatasan transaksi pengajuan pembelian reksa dana?",
+    "answer": "Nasabah dapat melakukan pengajuan pembelian reksa dana melalui aplikasi kapan saja. Hanya saja apabila transaksi nasabah lebih dari jam cut off yaitu pukul 12.30 proses transaksi dan NAV akan mengikuti hari bursa berikutnya"
+  }
+]

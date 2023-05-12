@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Bagaimana cara melakukan penjualan produk reksa dana?",
+    "answer": "Nasabah dapat membeli melalui fitur beli dan melalui proses explorasi produk"
+  },
+  {
+    "question": "Apakah terdapat pembatasan transaksi pengajuan penjualan reksa dana?",
+    "answer": "Nasabah dapat melakukan pengajuan penjualan reksa dana melalui aplikasi kapan saja. Hanya saja apabila transaksi nasabah lebih dari jam cut off yaitu pukul 12.30 proses transaksi dan NAV akan mengikuti hari bursa berikutnya"
+  },
+  {
+    "question": "Berapa lama waktu yang diperlukan hingga dana penjualan Reksa Dana diterima oleh nasabah?",
+    "answer": "Lama waktu (SLA) pengajuan pembelian maksimal 7 Hari Bursa (Hari Kerja KSEI), namun untuk SLA pencairan dana tiap produk berbeda-beda"
+  },
+  {
+    "question": "Apakah ada biaya pada proses pengajuan penjualan reksa dana?",
+    "answer": "Untuk Reksa Dana Pasar Uang, nasabah tidak dikenakan biaya penjualan (redemption fee). Namun, untuk Reksa Dana non Pasar Uang, nasabah dikenakan biaya pembelian sebesar 1% tergantung produk Reksa Dana yang dijual nasabah"
+  }
+]

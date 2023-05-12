@@ -1,0 +1,66 @@
+[
+  {
+    "question": "Apa itu reksa dana?",
+    "answer": "Adalah wadah yang menggabungkan modal dari banyak investor, berinvestasi pada beragam instrumen, serta dikelola secara profesional oleh perusahaan pengelola aset (Manajer Investasi)"
+  },
+  {
+    "question": "Apa keunggulan reksa dana bagi nasabah?",
+    "answer": "Fleksibel (Banyak pilihan produk sesuai kebutuhan investasi)<br/>Likuid (Bisa dicairkan kapan saja, tanpa jangka waktu)<br/>Aman (Terdaftar dan diawasi OJK)<br/>Bebas pajak (Hasil investasi reksa dana tidak dipotong pajak)"
+  },
+  {
+    "question": "Bagaimana Mekanisme Investasi Produk Reksa Dana",
+    "answer": "Reksa dana merupakan wadah dengan pola pengelolaan dana/modal dari sekumpulan investor untuk berinvestasi dalam instrumen-instrumen investasi yang tersedia di Pasar dengan cara membeli unit penyertaan Reksa Dana. Dana ini kemudian dikelola oleh Manajer Investasi (MI) ke dalam portofolio  investasi, baik berupa saham, obligasi/sukuk dan pasar uang ataupun efek lainnya"
+  },
+  {
+    "question": "Apa Perbedaan Reksadana Syariah dan Konvensional?",
+    "answer": "Syariah: Dikelola sesuai prinsip syariah. Investasi hanya pada Efek Syariah. Terdapat mekanisme pembersihan harta Non-Halal (Cleansing). Wajib dikelola oleh profesional yang mengerti kegiatan yang dilarang berdasarkan prinsip syariah. Konvensional: Dikelola tanpa memperhatikan prinsip syariah. Investasi pada Seluruh Efek. Tidak menggunakan konsep pembersihan harta. Tidak perlu profesional yang mengerti kegiatan yang dilarang berdasarkan prinsip syariah."
+  },
+  {
+    "question": "Apa saja jenis produk reksa dana?",
+    "answer": "Reksa Dana Pasar Uang, Pendapatan Tetap, Campuran, dan Saham"
+  },
+  {
+    "question": "Apa saja keuntungan melakukan investasi reksa dana?",
+    "answer": "Akses investasi yang mudah dapat melalui bank/online <br/>Diversifikasi investasi<br/>Murah, Dana investasi mulai dari Rp 50.000 <br/>Dikelola oleh manajemen yang profesional <br/>Likuiditas tinggi (dapat dicairkan kapan saja) <br/>Transparansi perkembangan investasi"
+  },
+  {
+    "question": "Apa saja risiko melakukan investasi reksa dana?",
+    "answer": "Risiko Likuiditas yaitu penundaan pencairan dana <br/>Risiko berkurangnya nilai investasi <br/>Risiko Perubahan Kondisi Politik dan Ekonomi <br/>Risiko Wanprestasi yaitu kondisi dimana penerbit efek tidak dapat memenuhi kewajibannya"
+  },
+  {
+    "question": "Berapa lama waktu investasi reksa dana?",
+    "answer": "Tidak ada jangka waktu minimum. Nasabah dapat melakukan pembelian dan penjualan unit kapanpun. <br/>Sebagai edukasi: Sebaiknya investasi Reksa Dana dilakukan untuk rencana jangka waktu menengah hingga panjang."
+  },
+  {
+    "question": "Apakah nasabah harus memilih saham dan obligasi sendiri?",
+    "answer": "Tidak perlu. Manajer Investasi akan melakukan pemilihan dan penempatan produk saham dan obligasi tersebut. Nasabah cukup memilih ingin fitur reksa dana saham, Pendapatan Tetap, Campuran atau Pasar Uang."
+  },
+  {
+    "question": "Apakah produk reksa dana dan perusahaan investasi dijamin regulator?",
+    "answer": "Dana investasi dikelola oleh perusahaan yang memiliki izin dan diawasi oleh Otoritas Jasa Keuangan (OJK)."
+  },
+  {
+    "question": "Apakah yang dimaksud dengan produk reksa dana pasar uang?",
+    "answer": "Produk yang penempatan investasinya hanya pada instrumen pasar uang berjangka (<1 tahun) dan deposito. Risiko produk ini sangat kecil. Reksa Dana ini sangat baik untuk investor yang sangat konservatif dengan tujuan investasi jangka pendek (0-1 tahun), dan baru mulai belajar berinvestasi."
+  },
+  {
+    "question": "Apakah yang dimaksud dengan produk reksa dana pendapatan tetap?",
+    "answer": "Produk yang komposisi penempatan investasinya adalah minimal 80% Sukuk, sehingga tidak terlalu berfluktuasi. Risiko produk ini rendah dan potensi hasil juga relatif rendah. Reksa Dana Pendapatan Tetap baik untuk investor konservatif (1-3 tahun) dengan jangka waktu investasi pendek"
+  },
+  {
+    "question": "Apakah yang dimaksud dengan produk reksa dana pasar campuran?",
+    "answer": "Produk yang penempatan investasinya menggunakan Porsi berimbang antara saham dan sukuk sehingga berfluktuasi moderat. Risiko produk ini sedang dan potensi hasil sedang. Reksa Dana Campuran baik untuk investor moderat (3–5 tahun) yang ingin menikmati potensi dari saham dan sukuk."
+  },
+  {
+    "question": "Apakah yang dimaksud dengan produk reksa dana saham?",
+    "answer": "Produk yang penempatan investasinya adalah minimal 80% saham sehingga berfluktuasi dengan agresif. Risiko produk ini tinggi dan potensi hasil juga tinggi. Reksa Dana Saham baik untuk investasi jangka panjang (5->10 tahun)."
+  },
+  {
+    "question": "Fitur apa aja yang tersedia pada menu reksa dana saat ini?",
+    "answer": "Registrasi, Pembelian, Penjualan, dan Portfolio. Untuk fitur History, Switching dan Beli Rutin akan dirilis pada fase berikutnya"
+  },
+  {
+    "question": "Apakah ada jam operasional transaksi di mobile apps?",
+    "answer": "Tidak ada, seluruh fitur dapat diakses dan ditransaksikan selama 24 jam/7 hari"
+  }
+]
