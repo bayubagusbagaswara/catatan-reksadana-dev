@@ -32,3 +32,17 @@
 - Cek SID (Single Investor Identification). Apakah SID sudah ada atau belum?
 - Jika SID sudah ada, maka tidak user tidak menampilkan pendaftaran reksadana
 - Jika SID belum ada, maka user harus mendaftar akun reksadana dari awal
+
+## ActivityName dan ActivityCategory
+
+- di package id.co.ist.digitalbanking.auditmanagementservice.constant;
+- tambahkan ActivityName : REKSADANA_INQUIRY_STATUS
+- tambahkan ActivityCategory : REKSADANA
+
+## Pertanyaan Question and Answer Terpopuler (FAQ)
+
+1. Pelajari Investasi Reksa Dana Sekarang
+
+- ada 5 pertanyaan (kita coba ambil pertanyaan 5 dari 10 mulai paling bawah)
+
+2. Ketika klik "Lihat selengkapnya", maka hit service get pertanyaan terpopuler dan pertanyaan per kategori
