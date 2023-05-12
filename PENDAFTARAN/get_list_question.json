@@ -1,0 +1,368 @@
+{
+  "question": [
+    {
+      "code": "REKSADANA_QUESTION1",
+      "questionSession": "1",
+      "language": "IDN",
+      "urlImage": null,
+      "value": "Berapa usia kamu saat ini?",
+      "option": [
+        {
+          "code": "01Q1",
+          "value": "18-45 tahun"
+        },
+        {
+          "code": "02Q1",
+          "value": "46-55 tahun"
+        },
+        {
+          "code": "03Q1",
+          "value": "56-65 tahun"
+        },
+        {
+          "code": "04Q1",
+          "value": "66-75 tahun "
+        },
+        {
+          "code": "05Q1",
+          "value": "Di atas 75 atau di bawah 18 tahun"
+        }
+      ]
+    },
+    {
+      "code": "REKSADANA_QUESTION2",
+      "questionSession": "2",
+      "language": "IDN",
+      "urlImage": null,
+      "value": "Apa tujuan utama kamu berinvestasi?",
+      "option": [
+        {
+          "code": "01Q1",
+          "value": "Mendapatkan Kenaikan Harga"
+        },
+        {
+          "code": "02Q1",
+          "value": "Investasi"
+        },
+        {
+          "code": "03Q1",
+          "value": "Spekulasi"
+        },
+        {
+          "code": "04Q1",
+          "value": "Mendapatkan Penghasilan/Pendapatan"
+        },
+        {
+          "code": "05Q1",
+          "value": "Lainnya"
+        }
+      ]
+    },
+    {
+      "code": "REKSADANA_QUESTION3",
+      "questionSession": "2",
+      "language": "IDN",
+      "urlImage": null,
+      "value": "Darimana sumber pendapatan terbesar Anda?",
+      "option": [
+        {
+          "code": "01Q3",
+          "value": "Penghasilan"
+        },
+        {
+          "code": "02Q3",
+          "value": "Keuntungan Bisnis"
+        },
+        {
+          "code": "03Q3",
+          "value": "Bunga Simpanan"
+        },
+        {
+          "code": "04Q3",
+          "value": "Warisan"
+        },
+        {
+          "code": "05Q3",
+          "value": "Dari Orang Tua/Anak"
+        },
+        {
+          "code": "06Q3",
+          "value": "Dari Suami/Istri"
+        },
+        {
+          "code": "07Q3",
+          "value": "Hibah"
+        },
+        {
+          "code": "08Q3",
+          "value": "Undian"
+        },
+        {
+          "code": "09Q3",
+          "value": "Hasil Investasi"
+        },
+        {
+          "code": "010Q3",
+          "value": "Lainnya"
+        }
+      ]
+    },
+    {
+      "code": "REKSADANA_QUESTION4",
+      "questionSession": "3",
+      "language": "IDN",
+      "urlImage": null,
+      "value": "Berapa persenkah dari pendapatan bulanan kamu yang kamu sediakan untuk berinvestasi atau menabung?",
+      "option": [
+        {
+          "code": "01Q4",
+          "value": "0%"
+        },
+        {
+          "code": "02Q4",
+          "value": "Lebih dari 0% sampai dengan 10%"
+        },
+        {
+          "code": "03Q4",
+          "value": "Lebih dari 10% sampai dengan 25%"
+        },
+        {
+          "code": "04Q4",
+          "value": "Lebih dari 25% sampai dengan 50%"
+        },
+        {
+          "code": "05Q4",
+          "value": "Lebih dari 50%"
+        }
+      ]
+    },
+    {
+      "code": "REKSADANA_QUESTION5",
+      "questionSession": "3",
+      "language": "IDN",
+      "urlImage": null,
+      "value": "Portofolio kamu sekarang terdiri dari?",
+      "option": [
+        {
+          "code": "01Q5",
+          "value": "Hanya uang tunai "
+        },
+        {
+          "code": "02Q5",
+          "value": "Sebagian besar uang tunai"
+        },
+        {
+          "code": "03Q5",
+          "value": "Campuran"
+        },
+        {
+          "code": "04Q5",
+          "value": "Agresif"
+        },
+        {
+          "code": "05Q5",
+          "value": "Spekulatif"
+        }
+      ]
+    },
+    {
+      "code": "REKSADANA_QUESTION6",
+      "questionSession": "4",
+      "language": "IDN",
+      "urlImage": null,
+      "value": "Berapa lama pengalaman yang kamu miliki dalam berinvestasi di produk yang berfluktuatif?",
+      "option": [
+        {
+          "code": "01Q1",
+          "value": "Tidak memiliki pengalaman"
+        },
+        {
+          "code": "02Q6",
+          "value": "Kurang dari 3 tahun"
+        },
+        {
+          "code": "03Q6",
+          "value": "3-6 tahun"
+        },
+        {
+          "code": "04Q6",
+          "value": "7-10 tahun"
+        },
+        {
+          "code": "05Q6",
+          "value": "Lebih dari 10 tahun"
+        }
+      ]
+    },
+    {
+      "code": "REKSADANA_QUESTION7",
+      "questionSession": "4",
+      "language": "IDN",
+      "urlImage": null,
+      "value": "Berdasarkan pertanyaan diatas, Seberapa besar aset yang kamu alokasikan ke dalam produk yang berfluktuatif tersebut?",
+      "option": [
+        {
+          "code": "01Q7",
+          "value": "0%"
+        },
+        {
+          "code": "02Q7",
+          "value": "Lebih dari 0% sampai dengan 10%"
+        },
+        {
+          "code": "03Q7",
+          "value": "Lebih dari 10% sampai dengan 25%"
+        },
+        {
+          "code": "04Q7",
+          "value": "Lebih dari 25% sampai dengan 50%"
+        },
+        {
+          "code": "05Q7",
+          "value": "Lebih dari 50%"
+        }
+      ]
+    },
+    {
+      "code": "REKSADANA_QUESTION8",
+      "questionSession": "5",
+      "language": "IDN",
+      "urlImage": null,
+      "value": "Semakin tinggi risiko dari suatu investasi, semakin besar potensial fluktuasinya dan semakin besar pula tingkat pengembaliannya (High Risk, High Return).",
+      "option": [
+        {
+          "code": "01Q8",
+          "value": "Fluktuasi antara -5% dan +5%"
+        },
+        {
+          "code": "02Q8",
+          "value": "Fluktuasi antara -10% dan +10%"
+        },
+        {
+          "code": "03Q8",
+          "value": "Fluktuasi antara -15% dan +15%"
+        },
+        {
+          "code": "04Q8",
+          "value": "Fluktuasi antara -20% dan +20%"
+        },
+        {
+          "code": "05Q8",
+          "value": "Fluktuasi antara <-20% dan >+20%"
+        }
+      ]
+    },
+    {
+      "code": "REKSADANA_QUESTION9",
+      "questionSession": "5",
+      "language": "IDN",
+      "urlImage": null,
+      "value": "Semakin lama jangka waktu berinvestasi maka semakin besar pula risiko yang dapat ditoleransi oleh investor. Seberapa lamakah kamu dapat bertoleransi dengan produk investasi yang berfluktuatif?",
+      "option": [
+        {
+          "code": "01Q9",
+          "value": "Kurang dari 1 tahun"
+        },
+        {
+          "code": "02Q9",
+          "value": "1-3 tahun"
+        },
+        {
+          "code": "01Q09",
+          "value": "4-5 tahun"
+        },
+        {
+          "code": "04Q9",
+          "value": "6-10 tahun"
+        },
+        {
+          "code": "05Q9",
+          "value": "Lebih dari 10 tahun"
+        }
+      ]
+    },
+    {
+      "code": "REKSADANA_QUESTION10",
+      "questionSession": "5",
+      "language": "IDN",
+      "urlImage": null,
+      "value": "Berapa jumlah dana yang kamu simpan untuk kejadian yang tidak terduga? Dana tersebut dapat diakses dengan mudah dan memiliki likuiditas yang tinggi.",
+      "option": [
+        {
+          "code": "01Q10",
+          "value": "Tidak ada"
+        },
+        {
+          "code": "02Q10",
+          "value": "Kurang dari 3 bulan gaji"
+        },
+        {
+          "code": "03Q10",
+          "value": "Antara 3 bulan gaji sampai dengan < 6 bulan gaji"
+        },
+        {
+          "code": "04Q10",
+          "value": "Antara 6 bulan gaji sampai dengan < 9 bulan gaji"
+        },
+        {
+          "code": "05Q10",
+          "value": "Lebih dari 9 bulan gaji."
+        }
+      ]
+    },
+    {
+      "code": "REKSADANA_QUESTION11",
+      "questionSession": "6",
+      "language": "IDN",
+      "urlImage": null,
+      "value": "Seberapa seringkah Anda mengevaluasi hasil investasi kamu?",
+      "option": [
+        {
+          "code": "01Q11",
+          "value": "Lebih dari 6 bulan"
+        },
+        {
+          "code": "02Q11",
+          "value": "Setiap 6 bulan"
+        },
+        {
+          "code": "03Q11",
+          "value": "Setiap 3 bulan"
+        },
+        {
+          "code": "04Q11",
+          "value": "Setiap bulan"
+        },
+        {
+          "code": "05Q11",
+          "value": "Setiap minggu"
+        }
+      ]
+    },
+    {
+      "code": "REKSADANA_QUESTION12",
+      "questionSession": "6",
+      "language": "IDN",
+      "urlImage": null,
+      "value": "Jika investasi kamu mulai merugi, apa yang akan kamu lakukan?",
+      "option": [
+        {
+          "code": "01Q12",
+          "value": "Langsung dijual"
+        },
+        {
+          "code": "02Q12",
+          "value": "Dijual "
+        },
+        {
+          "code": "03Q12",
+          "value": "Tidak panik"
+        },
+        {
+          "code": "04Q12",
+          "value": "Menambah jumlah investasi"
+        }
+      ]
+    }
+  ]
+}
