@@ -17,6 +17,9 @@
 ## Pembukaan Reksa Dana
 
 - Penambahan description rekening Reksa Dana, seperti description, title, feature, description card itu ada di table ACCOUNT_PRODUCT di PARAMATER_MANAGEMENT_SERVICE
+- Penambahan data Risk Profile Question dan Risk Profile Option di table RiskProfileQuestion dan RiskProfileOption
+- Penambahan Produk dan Layanan Reksa Dana di table ContentParameter, dalam format HTML
+- Penambahan Denom di table BusinessParameter
 
 ## Pembelian Reksa Dana
 
