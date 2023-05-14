@@ -67,3 +67,28 @@
   ]
 }
 ```
+
+## Catatan Penambahan Kolom Table FAQ CATEGORY
+
+- tambah kolom CATEGORY_CODE, misalnya REKSADANA, REGISTRASI, BELI_REKSADANA
+- tambah kolom MODULE, karena ada 7 kategori dengan module REKSADANA
+- Query menambah 1 kolom
+
+```sql
+ALTER TABLE PARAMETER_MANAGEMENT_SERVICE.FAQ_CATEGORY ADD CATEGORY_CODE VARCHAR2(255) NULL;
+```
+
+- Query menambah 2 kolom sekaligus
+
+```sql
+ALTER TABLE PARAMETER_MANAGEMENT_SERVICE.FAQ_CATEGORY
+ADD(
+        CATEGORY_CODE VARCHAR(255) NULL,
+        MODULE VARCHAR(255) NULL
+    );
+```
+
+- Kita buat dulu semua FAQ Category nya
+- Simpan ID CATEGORY NYA
+- ID_CATEGORY REKSADANA =
+- ID_CATEGORY REGISTRASI =
