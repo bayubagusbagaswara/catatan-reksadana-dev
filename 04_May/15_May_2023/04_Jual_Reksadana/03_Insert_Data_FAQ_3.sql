@@ -13,7 +13,9 @@ INSERT INTO PARAMETER_MANAGEMENT_SERVICE.FAQ (
         MODIFIED_BY,
         MODIFIED_DATE,
         IS_DELETED,
-        STATUS
+        STATUS,
+        FAQ_CATEGORY_CODE,
+        FAQ_CODE
     )
 VALUES(
         823,
@@ -30,5 +32,7 @@ VALUES(
         NULL,
         NULL,
         0,
-        0
+        0,
+        'JUAL_REKSADANA',
+        'JUAL_REKSADANA_FAQ_3'
     );
