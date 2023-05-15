@@ -17,8 +17,8 @@ INSERT INTO PARAMETER_MANAGEMENT_SERVICE.FAQ (
     )
 VALUES(
         801,
-        'Bagaimana Mekanisme Investasi Produk Reksa Dana',
-        'Bagaimana Mekanisme Investasi Produk Reksa Dana',
+        'Bagaimana Mekanisme Investasi Produk Reksa Dana?',
+        'Bagaimana Mekanisme Investasi Produk Reksa Dana?',
         'Reksa dana merupakan wadah dengan pola pengelolaan dana/modal dari sekumpulan investor untuk berinvestasi dalam instrumen-instrumen investasi yang tersedia di Pasar dengan cara membeli unit penyertaan Reksa Dana. Dana ini kemudian dikelola oleh Manajer Investasi (MI) ke dalam portofolio  investasi, baik berupa saham, obligasi/sukuk dan pasar uang ataupun efek lainnya',
         'Reksa dana merupakan wadah dengan pola pengelolaan dana/modal dari sekumpulan investor untuk berinvestasi dalam instrumen-instrumen investasi yang tersedia di Pasar dengan cara membeli unit penyertaan Reksa Dana. Dana ini kemudian dikelola oleh Manajer Investasi (MI) ke dalam portofolio  investasi, baik berupa saham, obligasi/sukuk dan pasar uang ataupun efek lainnya',
         'Reksa Dana',
