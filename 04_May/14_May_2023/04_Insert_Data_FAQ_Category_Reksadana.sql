@@ -20,11 +20,9 @@ VALUES(
         'Reksadana',
         'Reksadana',
         'http://mf8.myinfosys.net:7005/bsi/assets/FaqCategory/FaqCategoryQCV6ThuMay0410:50:22WIB2023.png',
-        1,
+        4,
         0,
         '1',
-        NULL,
-        NULL,
         'REKSADANA',
         'REKSADANA'
     );
