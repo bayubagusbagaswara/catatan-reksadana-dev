@@ -96,3 +96,8 @@ ADD(
 - ID_CATEGORY JUAL REKSADANA = 823
 - ID_CATEGORY PORTFOLIO = 824
 - ID_CATEGORY LAINNYA = 825
+
+# Beda Content Parameter dan Notification Template
+
+- di Content Parameter ada MODULE : TEMPLATE_RECEIPT isinya adalah data-data yang dikirim resi di email
+- di Notification Templete ada MODULE : EMAIL, SMS, INBOX
