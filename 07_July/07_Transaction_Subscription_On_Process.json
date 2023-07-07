@@ -1,0 +1,153 @@
+{
+  "transactionStatusData": [
+    {
+      "value": "<font color=\"#F4000000\" size=\"16\" weight=\"normal\">${amount}</font>",
+      "key": "Nominal Pembelian",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "",
+      "key": "",
+      "type": "line"
+    },
+    {
+      "value": "<font color=\"#F4000000\" size=\"16\" weight=\"bold\">${productName}</font>",
+      "key": "Produk Reksa Dana",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "",
+      "key": "",
+      "type": "line"
+    },
+    {
+      "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${estimatedUnitsReceived}</font>",
+      "key": "Estimasi unit diterima",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "detailTransaksi": [
+        {
+          "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${amount}</font>",
+          "key": "Nominal Pembelian",
+          "type": "data",
+          "background": "#00FFFFFF"
+        },
+        {
+          "value": "",
+          "key": "",
+          "type": "line"
+        },
+        {
+          "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${feeAmount}</font>",
+          "key": "Biaya Transaksi",
+          "type": "data",
+          "background": "#00FFFFFF"
+        },
+        {
+          "value": "",
+          "key": "",
+          "type": "line"
+        },
+        {
+          "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${feeTax}</font>",
+          "key": "Biaya Pajak",
+          "type": "data",
+          "background": "#00FFFFFF"
+        },
+        {
+          "value": "",
+          "key": "",
+          "type": "line"
+        },
+        {
+          "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${netAmount}</font>",
+          "key": "Total",
+          "type": "data",
+          "background": "#00FFFFFF"
+        }
+      ]
+    }
+  ],
+  "receiptData": [
+    {
+      "value": "<font color=\"#F4000000\" size=\"21\" weight=\"bold\">${amount}</font>",
+      "key": "Nominal Pembelian",
+      "type": "data",
+      "background": "#FFFDEB"
+    },
+    {
+      "value": "<font color=\"#F4000000\" size=\"14\" weight=\"bold\">${fromAccountOwnerName}</font><br><font color=\"#9E000000\" size=\"14\" weight=\"normal\">${fromBankName} • ${noRekReksaDana}</font>",
+      "key": "Tabungan Sumber",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${productName}</font>",
+      "key": "Produk Reksa Dana",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${estimatedUnitsReceived}</font>",
+      "key": "Estimasi Unit Diterima",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "",
+      "key": "",
+      "type": "line"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${amount}</font>",
+      "key": "Nominal Pembelian",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${feeAmount}</font>",
+      "key": "Biaya Transaksi",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${feeTax}</font>",
+      "key": "Biaya Pajak",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"bold\">${netAmount}</font>",
+      "key": "Total",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "",
+      "key": "",
+      "type": "line"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${noStruct}</font>",
+      "key": "Nomor Struk",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${noTransaction}</font>",
+      "key": "Nomor Transaksi",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${terminal}</font>",
+      "key": "Terminal",
+      "type": "data",
+      "background": "#00FFFFFF"
+    }
+  ]
+}
