@@ -1,0 +1,234 @@
+{
+  "responseCode": "00",
+  "responseMessage": "Success",
+  "data": [
+    {
+      "title": "Semua",
+      "productList": [
+        {
+          "productCode": "MPUS",
+          "productName": "REKSA DANA SYARIAH MANDIRI PASAR UANG SYARIAH",
+          "productCategory": "MM",
+          "productCategoryName": "Pasar Uang",
+          "fundHouseCode": "CC002",
+          "fundHouseName": "PT MANDIRI MANAJEMEN INVESTASI",
+          "icon": "http://testing",
+          "lastNav": 1074.87,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 6.25,
+          "minimumSubscription": 100000,
+          "subscriptionFee": 0,
+          "redemptionFee": 1.5,
+          "switchingFee": 0,
+          "denominationList": [
+            {
+              "name": "100 ribu",
+              "value": "100000"
+            },
+            {
+              "name": "500 ribu",
+              "value": "500000"
+            },
+            {
+              "name": "1 juta",
+              "value": "1000000"
+            },
+            {
+              "name": "2 juta",
+              "value": "2000000"
+            }
+          ]
+        },
+        {
+          "productCode": "ESIC",
+          "productName": "East Spring Investment Cash",
+          "productCategory": "MM",
+          "productCategoryName": "Pasar Uang",
+          "fundHouseCode": "CC003",
+          "fundHouseName": "PT East Spring Investment",
+          "icon": "http://testing",
+          "lastNav": 1592,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 8.2,
+          "minimumSubscription": 100000,
+          "subscriptionFee": 0,
+          "redemptionFee": 1.5,
+          "switchingFee": 0,
+          "denominationList": [
+            {
+              "name": "100 ribu",
+              "value": "100000"
+            },
+            {
+              "name": "500 ribu",
+              "value": "500000"
+            },
+            {
+              "name": "1 juta",
+              "value": "1000000"
+            },
+            {
+              "name": "2 juta",
+              "value": "2000000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pasar Uang",
+      "productList": [
+        {
+          "productCode": "MPUS",
+          "productName": "REKSA DANA SYARIAH MANDIRI PASAR UANG SYARIAH",
+          "productCategory": "MM",
+          "productCategoryName": "Pasar Uang",
+          "fundHouseCode": "CC002",
+          "fundHouseName": "PT MANDIRI MANAJEMEN INVESTASI",
+          "icon": "http://testing",
+          "lastNav": 1074.87,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 6.25,
+          "minimumSubscription": 100000,
+          "subscriptionFee": 0,
+          "redemptionFee": 1.5,
+          "switchingFee": 0,
+          "denominationList": [
+            {
+              "name": "100 ribu",
+              "value": "100000"
+            },
+            {
+              "name": "500 ribu",
+              "value": "500000"
+            },
+            {
+              "name": "1 juta",
+              "value": "1000000"
+            },
+            {
+              "name": "2 juta",
+              "value": "2000000"
+            }
+          ]
+        },
+        {
+          "productCode": "ESIC",
+          "productName": "East Spring Investment Cash",
+          "productCategory": "MM",
+          "productCategoryName": "Pasar Uang",
+          "fundHouseCode": "CC003",
+          "fundHouseName": "PT East Spring Investment",
+          "icon": "http://testing",
+          "lastNav": 1592,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 8.2,
+          "minimumSubscription": 100000,
+          "subscriptionFee": 0,
+          "redemptionFee": 1.5,
+          "switchingFee": 0,
+          "denominationList": [
+            {
+              "name": "100 ribu",
+              "value": "100000"
+            },
+            {
+              "name": "500 ribu",
+              "value": "500000"
+            },
+            {
+              "name": "1 juta",
+              "value": "1000000"
+            },
+            {
+              "name": "2 juta",
+              "value": "2000000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pendapatan Tetap",
+      "productList": [
+        {
+          "productCode": "SYDK",
+          "productName": "Syailendra Dana Kas",
+          "productCategory": "FI",
+          "productCategoryName": "Pendapatan Tetap",
+          "fundHouseCode": "CC004",
+          "fundHouseName": "PT Syailendra Manajemen",
+          "icon": "http://testing",
+          "lastNav": 1222,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 8.2,
+          "minimumSubscription": 100000,
+          "subscriptionFee": 0,
+          "redemptionFee": 1.5,
+          "switchingFee": 0,
+          "denominationList": [
+            {
+              "name": "100 ribu",
+              "value": "100000"
+            },
+            {
+              "name": "500 ribu",
+              "value": "500000"
+            },
+            {
+              "name": "1 juta",
+              "value": "1000000"
+            },
+            {
+              "name": "2 juta",
+              "value": "2000000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Campuran",
+      "productList": null
+    },
+    {
+      "title": "Saham",
+      "productList": [
+        {
+          "productCode": "BUPB",
+          "productName": "BNI-AM UGM Progressinve Balanced",
+          "productCategory": "EF",
+          "productCategoryName": "Saham",
+          "fundHouseCode": "CC005",
+          "fundHouseName": "PT BNI Manajemen",
+          "icon": "http://testing",
+          "lastNav": 1992,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 12.23,
+          "minimumSubscription": 100000,
+          "subscriptionFee": 0,
+          "redemptionFee": 1.5,
+          "switchingFee": 0,
+          "denominationList": [
+            {
+              "name": "100 ribu",
+              "value": "100000"
+            },
+            {
+              "name": "500 ribu",
+              "value": "500000"
+            },
+            {
+              "name": "1 juta",
+              "value": "1000000"
+            },
+            {
+              "name": "2 juta",
+              "value": "2000000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
