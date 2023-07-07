@@ -1,0 +1,117 @@
+{
+  "transactionStatusData": [
+    {
+      "value": "<font color=\"#F4000000\" size=\"16\" weight=\"normal\">${amount}</font>",
+      "key": "Nominal Penjualan",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "",
+      "key": "",
+      "type": "line"
+    },
+    {
+      "value": "<font color=\"#F4000000\" size=\"16\" weight=\"bold\">${productName}</font>",
+      "key": "Produk Reksa Dana",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "",
+      "key": "",
+      "type": "line"
+    },
+    {
+      "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${namaTabunganPenerima}<br>{noRekeningTabunganPenerima}</font>",
+      "key": "Tabungan Penerima",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "detailTransaksi": [
+        {
+          "value": "",
+          "key": "",
+          "type": "line"
+        },
+        {
+          "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${unit}</font>",
+          "key": "Total Unit",
+          "type": "data",
+          "background": "#00FFFFFF"
+        },
+        {
+          "value": "",
+          "key": "",
+          "type": "line"
+        },
+        {
+          "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${amount}</font>",
+          "key": "Nominal Penjualan",
+          "type": "data",
+          "background": "#00FFFFFF"
+        },
+        {
+          "value": "",
+          "key": "",
+          "type": "line"
+        }
+      ]
+    }
+  ],
+  "receiptData": [
+    {
+      "value": "<font color=\"#F4000000\" size=\"21\" weight=\"bold\">${amount}</font>",
+      "key": "Nominal Penjualan",
+      "type": "data",
+      "background": "#FFFDEB"
+    },
+    {
+      "value": "<font color=\"#F4000000\" size=\"14\" weight=\"bold\">${namaTabunganPenerima}</font><br><font color=\"#9E000000\" size=\"14\" weight=\"normal\">${fromBankName} • ${noRekeningTabunganPenerima}</font>",
+      "key": "Tabungan\nPenerima",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${productName}</font>",
+      "key": "Produk\nReksa Dana",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${unit}</font>",
+      "key": "Total Unit",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "",
+      "key": "",
+      "type": "line"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${noStruct}</font>",
+      "key": "Nomor Struk",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${noTransaction}</font>",
+      "key": "Nomor Transaksi",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "<font color=\"#9E000000\" size=\"14\" weight=\"normal\">${terminal}</font>",
+      "key": "Terminal",
+      "type": "data",
+      "background": "#00FFFFFF"
+    },
+    {
+      "value": "",
+      "key": "",
+      "type": "line"
+    }
+  ]
+}
