@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Produk &amp; Layanan</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=DM+Sans&display=swap");
+    </style>
+    <style type="text/css">
+      html,
+      body {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+        font-family: "DM Sans", sans-serif;
+        font-size: 14px;
+        line-height: 1.6rem;
+      }
+      body {
+        /* background: #f9f9f9; */
+      }
+      .container {
+        max-width: 1020px;
+        display: block;
+        /* background: #fff; */
+        /* border: 1px solid #dedede;
+        border-radius: 5px; */
+        display: block;
+        margin: 20px auto;
+        padding: 30px 60px;
+        width: 90%;
+      }
+      .container > ul > li {
+        margin: 20px 0;
+      }
+      /*	heading  */
+      .heading,
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        margin: 40px 0;
+      }
+      .heading,
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      .boldall,
+      .boldall * {
+        font-weight: 900;
+      }
+      h1 {
+        font-size: 26px;
+      }
+      h2 {
+        font-size: 24px;
+      }
+      h3 {
+        font-size: 22px;
+      }
+      h4 {
+        font-size: 20px;
+      }
+      h5 {
+        font-size: 18px;
+      }
+      h6 {
+        font-size: 16px;
+      }
+
+      /* list */
+      ul.circle > li {
+        list-style-type: circle;
+      }
+      ul.disc > li {
+        list-style-type: disc;
+      }
+      ul.square > li {
+        list-style-type: square;
+      }
+      ul.armenian > li {
+        list-style-type: armenian;
+      }
+      ul.cjk > li {
+        list-style-type: cjk-ideographic;
+      }
+      ul.decimal {
+        list-style-type: decimal;
+      }
+      ul.decimalzero {
+        list-style-type: decimal-leading-zero;
+      }
+      ul.georgian {
+        list-style-type: georgian;
+      }
+      ul.hebrew {
+        list-style-type: hebrew;
+      }
+      ul.hiragana {
+        list-style-type: hiragana;
+      }
+      ul.hiraganairoha {
+        list-style-type: hiragana-iroha;
+      }
+      ul.katakana {
+        list-style-type: katakana;
+      }
+      ul.katakanairoha {
+        list-style-type: katakana-iroha;
+      }
+      ul.lowalpha > li {
+        list-style-type: lower-alpha;
+      }
+      ul.lowgreek {
+        list-style-type: lower-greek;
+      }
+      ul.lowlatin {
+        list-style-type: lower-latin;
+      }
+      ul.lowroman {
+        list-style-type: lower-roman;
+      }
+      ul.upalpha > li {
+        list-style-type: upper-alpha;
+      }
+      ul.upgreek {
+        list-style-type: upper-greek;
+      }
+      ul.uplatin {
+        list-style-type: upper-latin;
+      }
+      ul.uproman {
+        list-style-type: upper-roman;
+      }
+      ul.none {
+        list-style-type: none;
+      }
+      ul.inherit {
+        list-style-type: inherit;
+      }
+      ul {
+        counter-reset: item;
+        padding-start: 26px;
+        -webkit-padding-start: 26px;
+      }
+      ul.withsub ul {
+        padding-start: 38px;
+        -webkit-padding-start: 40px;
+      }
+      ul.withsub ul ul {
+        padding-start: 49px;
+        -webkit-padding-start: 49px;
+      }
+      ul.withsub ul ul ul {
+        padding-start: 60px;
+        -webkit-padding-start: 60px;
+      }
+      ul.withsub > li {
+        display: block;
+      }
+      ul.default {
+        margin-left: -12px;
+      }
+      ul.default > li {
+        padding-left: 12px;
+      }
+      ul.withsub > li:before {
+        content: counters(item, ".") ". ";
+        counter-increment: item;
+        padding-right: 10px;
+        margin-left: -25px;
+      }
+      .withsub li li:before {
+        margin-left: -38px;
+      }
+      .withsub li li li:before {
+        margin-left: -49px;
+      }
+      .withsub li li li li:before {
+        margin-left: -61px;
+      }
+      .withsub.direct-no-bullet {
+        padding: 0;
+      }
+      .withsub.direct-no-bullet > li:before {
+        position: absolute;
+        opacity: 0;
+      }
+      .withsub.direct-no-bullet > li > .withsub li:before {
+        margin-left: -40px;
+        display: inline-block;
+        width: 30px;
+      }
+      .withsub.direct-no-bullet > li > .withsub li li:before {
+        margin-left: -48px;
+        display: inline-block;
+        width: 48px;
+        padding-right: 0;
+      }
+      ul.withsub.direct-no-bullet > li > ul.withsub > li {
+        margin-bottom: 20px;
+      }
+      ul.withsub.direct-no-bullet > li > ul.withsub.no-space li,
+      .container ul.withsub.no-space li {
+        margin-bottom: 0;
+      }
+      .container > ul.withsub.no-space li {
+        margin: 0;
+      }
+      ul.withsub.direct-no-bullet li ul.withsub ul.default {
+        padding-start: 0;
+        -webkit-padding-start: 40px;
+      }
+
+      /*	paragraph, alignment, etc */
+      .removebold,
+      .removebold * {
+        font-weight: normal;
+      }
+      .txtleft {
+        text-align: left;
+      }
+      .txtcenter {
+        text-align: center;
+        display: block;
+        font-size: 21px;
+      }
+      .txtleft {
+        text-align: left;
+        display: block;
+        font-size: 21px;
+      }
+      .txtright {
+        text-align: right;
+      }
+      .upcase {
+        text-transform: uppercase;
+      }
+      p {
+        margin: 20px 0;
+      }
+
+      /*	accordion */
+      .accordion-toggle {
+        cursor: pointer;
+      }
+      .accordion-content {
+        display: none;
+      }
+      .accordion-content.default {
+        display: block;
+      }
+
+      @media only screen and (max-width: 720px) {
+        .container {
+          max-width: 480px;
+          width: 100%;
+          padding: 20px;
+        }
+      }
+      @media only screen and (max-width: 480px) {
+        .container {
+          padding: 0px 30px;
+          margin: 15px auto;
+          zoom: 90%;
+          width: 75%;
+          word-break: break-word;
+        }
+
+        .withsub.direct-no-bullet > li > .withsub li:before {
+          margin-left: -40px;
+          width: 40px;
+          padding: 0;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h3><strong class="txtright">Definisi</strong></h3>
+      <ol>
+        <li>
+          <p>
+            Layanan Transaksi Reksa Dana secara Elektronik merupakan layanan
+            yang memungkinkan Nasabah untuk melakukan transaksi pembelian,
+            penjualan, dan pengalihan Reksa Dana secara online melalui aplikasi
+            BSI Mobile.
+          </p>
+        </li>
+        <li>
+          <p>
+            Reksa Dana adalah produk pasar modal dan bukan merupakan produk Bank
+            sehingga tidak dijamin oleh Bank serta tidak termasuk dalam cakupan
+            obyek program penjaminan Pemerintah atau penjaminan simpanan.
+          </p>
+        </li>
+        <li>
+          <p>
+            Seperti investasi dalam bentuk lainnya, investasi pada produk Reksa
+            Dana mengandung risiko. Sehingga penting bagi calon investor untuk
+            dapat membaca dan memahami dokumen Prospektus Produk Reksa Dana
+            sebelum melakukan transaksi.
+          </p>
+        </li>
+        <li>
+          <p>
+            Detail terkait informasi produk Reksa Dana serta Manajemen Investasi
+            dapat diakses pada menu katalog produk Reksa Dana.
+          </p>
+        </li>
+        <li>
+          <p>
+            Detail terkait informasi produk Reksa Dana serta Manajemen Investasi
+            dapat diakses pada menu katalog produk Reksa Dana
+          </p>
+        </li>
+      </ol>
+    </div>
+  </body>
+</html>
