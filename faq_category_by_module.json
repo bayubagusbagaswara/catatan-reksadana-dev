@@ -1,0 +1,88 @@
+{
+  "categoryDTOLists": [
+    {
+      "categoryName": "REKSADANA",
+      "faqCategoryDTOList": [
+        {
+          "categoryCode": "REKSADANA",
+          "module": "REKSADANA",
+          "title": null,
+          "nameIdn": "Reksa Dana",
+          "nameEng": "Reksa Dana",
+          "imageUrl": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/FaqCategory/Reksadana/Reksadana-2x.png",
+          "faqList": null
+        }
+      ]
+    },
+    {
+      "categoryName": "REGISTRASI",
+      "faqCategoryDTOList": [
+        {
+          "categoryCode": "REGISTRASI",
+          "module": "REKSADANA",
+          "title": null,
+          "nameIdn": "Registrasi",
+          "nameEng": "Registrasi",
+          "imageUrl": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/FaqCategory/Registrasi/Registrasi-2x.png",
+          "faqList": null
+        }
+      ]
+    },
+    {
+      "categoryName": "BELI_REKSADANA",
+      "faqCategoryDTOList": [
+        {
+          "categoryCode": "BELI_REKSADANA",
+          "module": "REKSADANA",
+          "title": null,
+          "nameIdn": "Beli Reksa Dana",
+          "nameEng": "Beli Reksa Dana",
+          "imageUrl": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/FaqCategory/Beli/Beli-2x.png",
+          "faqList": null
+        }
+      ]
+    },
+    {
+      "categoryName": "JUAL_REKSADANA",
+      "faqCategoryDTOList": [
+        {
+          "categoryCode": "JUAL_REKSADANA",
+          "module": "REKSADANA",
+          "title": null,
+          "nameIdn": "Jual Reksa Dana",
+          "nameEng": "Jual Reksa Dana",
+          "imageUrl": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/FaqCategory/Jual/Jual-2x.png",
+          "faqList": null
+        }
+      ]
+    },
+    {
+      "categoryName": "PORTFOLIO",
+      "faqCategoryDTOList": [
+        {
+          "categoryCode": "PORTFOLIO",
+          "module": "REKSADANA",
+          "title": null,
+          "nameIdn": "Portfolio",
+          "nameEng": "Portfolio",
+          "imageUrl": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/FaqCategory/Portfolio/Portofolio-2x.png",
+          "faqList": null
+        }
+      ]
+    },
+    {
+      "categoryName": "LAINNYA",
+      "faqCategoryDTOList": [
+        {
+          "categoryCode": "LAINNYA",
+          "module": "REKSADANA",
+          "title": null,
+          "nameIdn": "Lainnya",
+          "nameEng": "Lainnya",
+          "imageUrl": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/FaqCategory/Lainnya/Lainnya-2x.png",
+          "faqList": null
+        }
+      ]
+    }
+  ]
+}
