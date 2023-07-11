@@ -1,0 +1,22 @@
+{
+  "responseCode": "00",
+  "responseMessage": "Success",
+  "popular1": [{}, {}, {}, {}, {}],
+  "popular2": [{}, {}, {}, {}, {}],
+  "faqGroupByCategory": [
+    {
+      "title": "",
+      "categoryCode": "",
+      "module": "",
+      "nameIdn": "Reksa Dana",
+      "nameEng": "Reksa Dana",
+      "imageUrl": "",
+      "faq": [{}, {}, {}, {}]
+    },
+    {},
+    {},
+    {},
+    {},
+    {}
+  ]
+}
