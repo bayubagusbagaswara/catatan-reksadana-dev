@@ -101,3 +101,13 @@ ADD(
 
 - di Content Parameter ada MODULE : TEMPLATE_RECEIPT isinya adalah data-data yang dikirim resi di email
 - di Notification Templete ada MODULE : EMAIL, SMS, INBOX
+
+# Business Parameter Module
+
+- REKSADANA_CATEGORY
+- REKSADANA_DENOM_SUBSCRIPTION
+- REKSADANA_DENOM_REDEMPTION
+
+# Content Parameter Module
+
+# System Parameter Module
