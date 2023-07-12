@@ -17,7 +17,7 @@ INSERT INTO PARAMETER_MANAGEMENT_SERVICE.BUSINESS_PARAMETER (
     )
 VALUES (
         'SYSTEM',
-        TIMESTAMP '2023-07-12 10:52:00',
+        TIMESTAMP '2023-07-12 13:48:00',
         'Manajemen Investasi Mandiri',
         NULL,
         NULL,
