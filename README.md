@@ -111,3 +111,30 @@ ADD(
 # Content Parameter Module
 
 # System Parameter Module
+
+# API PORTFOLIO
+
+1. Keuntungan Hari Ini per Product, dimana nilai tersebut didapatkan dari Nilai Last NAV - NAV sebelumnya.
+   Misal:
+
+- NAV Hari Ini = 2500.00
+- NAV Sebelumnya (Hari Kemarin) = 2100.00
+- Jadi keuntungan sebesar 400.00
+- Bisa jadi ini adalah field `UGL1D`
+
+2. Keuntungan Hari Ini All Product, dimana nilai tersebut didapatkan dari jumlah keseluruhan keuntungan hari ini per product berdasarkan product yang dimiliki oleh Nasabah.
+
+- Jadi ini adalah semua total keuntungan nasabah untuk Hari Ini
+- Jadi hasil jumlah dari keuntungan semua product hari ini
+- Alias jika nasabah memiliki 2 product portfolio, maka nilai ini adalah penjumlahan hasil keuntungan tiap product hari ini
+- Bisa jadi ini adalah field `TotalUGL1D`
+
+3. Total Keuntungan per Product, dimana nilai tersebut didapatkan dari (AVG NAV - Last Balance Unit Hari Ini)
+
+- Jadi ini adalah keuntungan per product
+- Bisa jadi ini adalah field `UGL`
+
+4. Total Keuntungan All Product, dimana nilai tersebut didapatkan dari jumlah keseluruhan berdasarkan product yang dimiliki Nasabah
+
+- Jadi ini adalah keuntungan investasi Nasabah
+- Bisa jadi ini adalah field `TotalUGL`
