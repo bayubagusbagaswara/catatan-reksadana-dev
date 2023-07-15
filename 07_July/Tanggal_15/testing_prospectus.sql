@@ -27,7 +27,7 @@ VALUES (
         '-',
         'IDN',
         1,
-        NULL,
+        'Juni 2023',
         NULL,
         NULL,
         TO_CLOB('TESTING'),
