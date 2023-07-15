@@ -18,7 +18,7 @@ INSERT INTO PARAMETER_MANAGEMENT_SERVICE.CONTENT_PARAMETER (
     )
 VALUES (
         'SYSTEM',
-        TIMESTAMP '2023-07-12 09:02:00',
+        TIMESTAMP '2023-07-15 09:02:00',
         'Fund Fact Sheet MPUS (Base64 PDF)',
         NULL,
         NULL,
@@ -27,7 +27,7 @@ VALUES (
         '-',
         'IDN',
         1,
-        NULL,
+        'Juni 2023',
         NULL,
         NULL,
         TO_CLOB('TESTING'),
