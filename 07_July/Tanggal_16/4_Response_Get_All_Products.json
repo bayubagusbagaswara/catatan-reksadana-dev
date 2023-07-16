@@ -1,0 +1,164 @@
+{
+  "responseCode": "00",
+  "responseMessage": "Success",
+  "data": [
+    {
+      "categoryTitle": "Semua",
+      "categoryImage": null,
+      "productList": [
+        {
+          "productCode": "MPUS",
+          "productName": "Mandiri Pasar Uang Syariah",
+          "productCategory": "MM",
+          "productCategoryName": "Pasar Uang",
+          "fundHouseCode": "CC002",
+          "fundHouseName": "PT Mandiri Manajemen Investasi",
+          "icon": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogImages/logo_mandiri_2x.png",
+          "lastNav": 1074.87,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 6.25,
+          "indicatorUpOrDown": "UP",
+          "minimumSubscription": 100000,
+          "subscriptionFee": 0,
+          "redemptionFee": 0,
+          "switchingFee": 0
+        },
+        {
+          "productCode": "MIPU",
+          "productName": "Mandiri Investa Syariah Berimbang",
+          "productCategory": "MM",
+          "productCategoryName": "Pasar Uang",
+          "fundHouseCode": "CC002",
+          "fundHouseName": "PT Mandiri Manajemen Investasi",
+          "icon": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogImages/logo_mandiri_2x.png",
+          "lastNav": 3608.22,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 2.56,
+          "indicatorUpOrDown": "UP",
+          "minimumSubscription": 100000,
+          "subscriptionFee": 1,
+          "redemptionFee": 1,
+          "switchingFee": 1
+        },
+        {
+          "productCode": "MIDS",
+          "productName": "Mandiri Investa Dana Syariah",
+          "productCategory": "FI",
+          "productCategoryName": "Pendapatan Tetap",
+          "fundHouseCode": "CC002",
+          "fundHouseName": "PT Mandiri Manajemen Investasi",
+          "icon": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogImages/logo_mandiri_2x.png",
+          "lastNav": 4182.67,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 3.93,
+          "indicatorUpOrDown": "DOWN",
+          "minimumSubscription": 100000,
+          "subscriptionFee": 0,
+          "redemptionFee": 1,
+          "switchingFee": 1
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Pasar Uang",
+      "categoryImage": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogCategory/PasarUang/pasar_uang_2x.png",
+      "productList": [
+        {
+          "productCode": "MPUS",
+          "productName": "Mandiri Pasar Uang Syariah",
+          "productCategory": "MM",
+          "productCategoryName": "Pasar Uang",
+          "fundHouseCode": "CC002",
+          "fundHouseName": "PT Mandiri Manajemen Investasi",
+          "icon": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogImages/logo_mandiri_2x.png",
+          "lastNav": 1074.87,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 6.25,
+          "indicatorUpOrDown": "UP",
+          "minimumSubscription": 100000,
+          "subscriptionFee": 0,
+          "redemptionFee": 0,
+          "switchingFee": 0
+        },
+        {
+          "productCode": "MIPU",
+          "productName": "Mandiri Investa Syariah Berimbang",
+          "productCategory": "MM",
+          "productCategoryName": "Pasar Uang",
+          "fundHouseCode": "CC002",
+          "fundHouseName": "PT Mandiri Manajemen Investasi",
+          "icon": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogImages/logo_mandiri_2x.png",
+          "lastNav": 3608.22,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 2.56,
+          "indicatorUpOrDown": "UP",
+          "minimumSubscription": 100000,
+          "subscriptionFee": 1,
+          "redemptionFee": 1,
+          "switchingFee": 1
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Pendapatan Tetap",
+      "categoryImage": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogCategory/PendapatanTetap/pendapatan_tetap_2x.png",
+      "productList": [
+        {
+          "productCode": "MIDS",
+          "productName": "Mandiri Investa Dana Syariah",
+          "productCategory": "FI",
+          "productCategoryName": "Pendapatan Tetap",
+          "fundHouseCode": "CC002",
+          "fundHouseName": "PT Mandiri Manajemen Investasi",
+          "icon": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogImages/logo_mandiri_2x.png",
+          "lastNav": 4182.67,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 3.93,
+          "indicatorUpOrDown": "DOWN",
+          "minimumSubscription": 100000,
+          "subscriptionFee": 0,
+          "redemptionFee": 1,
+          "switchingFee": 1
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Campuran",
+      "categoryImage": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogCategory/Campuran/campuran_2x.png",
+      "productList": null
+    },
+    {
+      "categoryTitle": "Saham",
+      "categoryImage": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogCategory/Saham/saham_2x.png",
+      "productList": [
+        {
+          "productCode": "BUPB",
+          "productName": "BNI-AM UGM Progressive Balanced",
+          "productCategory": "EF",
+          "productCategoryName": "Saham",
+          "fundHouseCode": "NI002",
+          "fundHouseName": "PT BNI Asset Management",
+          "icon": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogImages/logo_bni_2x.png",
+          "lastNav": 1472.89,
+          "navDate": "2023-07-02",
+          "oneYearPerformance": 3.35,
+          "indicatorUpOrDown": "UP",
+          "minimumSubscription": 100000,
+          "subscriptionFee": 2,
+          "redemptionFee": 2,
+          "switchingFee": 2
+        }
+      ]
+    },
+    {
+      "categoryTitle": "Indeks",
+      "categoryImage": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogCategory/Indeks/indeks_2x.png",
+      "productList": null
+    },
+    {
+      "categoryTitle": "Terproteksi",
+      "categoryImage": "http://mf8.myinfosys.net:7005/bsi/assets/ReksaDana/ProductCatalogCategory/Terproteksi/terproteksi_2x.png",
+      "productList": null
+    }
+  ]
+}
