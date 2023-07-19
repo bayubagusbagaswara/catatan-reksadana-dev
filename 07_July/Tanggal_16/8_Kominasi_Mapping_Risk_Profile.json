@@ -1,0 +1,12 @@
+[
+  {
+    "productProfile": "Conservative",
+    "customerProfile": "Conservative",
+    "isWarning": false
+  },
+  {
+    "productProfile": "Growth",
+    "customerProfile": "Conservative",
+    "isWarning": true
+  }
+]
