@@ -24,7 +24,7 @@ VALUES (
         NULL,
         'REKSADANA_RISK_PROFILE',
         'CONSERVATIVE',
-        '-',
+        'Conservative',
         'IDN',
         1,
         NULL,
