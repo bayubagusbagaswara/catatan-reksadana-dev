@@ -1,0 +1,36 @@
+INSERT INTO PARAMETER_MANAGEMENT_SERVICE.CONTENT_PARAMETER (
+        CREATED_BY,
+        CREATED_DATE,
+        DESCRIPTION,
+        MODIFIED_BY,
+        MODIFIED_DATE,
+        MODULE,
+        NAME,
+        VALUE,
+        "LANGUAGE",
+        "ORDERING",
+        LABEL1,
+        LABEL2,
+        IMAGE_URL,
+        ADDITIONAL_DATA,
+        FLAG,
+        IS_DELETED
+    )
+VALUES (
+        'SYSTEM',
+        TIMESTAMP '2023-07-27 14:57:00',
+        'Reksa Dana Risk Profle Conservative',
+        NULL,
+        NULL,
+        'REKSADANA_RISK_PROFILE',
+        'MODERATE',
+        'Moderate',
+        'IDN',
+        1,
+        NULL,
+        NULL,
+        NULL,
+        TO_CLOB('Investor moderat adalah tipe investor yang memiliki tingkat toleransi risiko menengah, tergolong cukup berani mengambil risiko saat berinvestasi namun tetap masih berhati-hati terhadap perubahan nilai investasi pada portofolio investasi mereka'),
+        'UNKNOWN',
+        0
+    );
