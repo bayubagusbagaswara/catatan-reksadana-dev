@@ -1,0 +1,36 @@
+INSERT INTO PARAMETER_MANAGEMENT_SERVICE.CONTENT_PARAMETER (
+        CREATED_BY,
+        CREATED_DATE,
+        DESCRIPTION,
+        MODIFIED_BY,
+        MODIFIED_DATE,
+        MODULE,
+        NAME,
+        VALUE,
+        "LANGUAGE",
+        "ORDERING",
+        LABEL1,
+        LABEL2,
+        IMAGE_URL,
+        ADDITIONAL_DATA,
+        FLAG,
+        IS_DELETED
+    )
+VALUES (
+        'SYSTEM',
+        TIMESTAMP '2023-07-27 15:05:00',
+        'Reksa Dana Risk Profle Aggresive',
+        NULL,
+        NULL,
+        'REKSADANA_RISK_PROFILE',
+        'AGGRESIVE',
+        'Aggresive',
+        'IDN',
+        1,
+        NULL,
+        NULL,
+        NULL,
+        TO_CLOB('Agresif adalah tipe investor memiliki toleransi risiko yang tinggi. Investor ini sangat berani mengambil risiko berinvestasi dan siap jika investasi pokoknya berkurang atau hilang demi return yang lebih tinggi.'),
+        'UNKNOWN',
+        0
+    );
