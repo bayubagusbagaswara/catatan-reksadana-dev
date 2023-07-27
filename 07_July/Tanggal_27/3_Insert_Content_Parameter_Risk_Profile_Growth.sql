@@ -1,0 +1,36 @@
+INSERT INTO PARAMETER_MANAGEMENT_SERVICE.CONTENT_PARAMETER (
+        CREATED_BY,
+        CREATED_DATE,
+        DESCRIPTION,
+        MODIFIED_BY,
+        MODIFIED_DATE,
+        MODULE,
+        NAME,
+        VALUE,
+        "LANGUAGE",
+        "ORDERING",
+        LABEL1,
+        LABEL2,
+        IMAGE_URL,
+        ADDITIONAL_DATA,
+        FLAG,
+        IS_DELETED
+    )
+VALUES (
+        'SYSTEM',
+        TIMESTAMP '2023-07-27 15:02:00',
+        'Reksa Dana Risk Profle Growth',
+        NULL,
+        NULL,
+        'REKSADANA_RISK_PROFILE',
+        'GROWTH',
+        'Growth',
+        'IDN',
+        1,
+        NULL,
+        NULL,
+        NULL,
+        TO_CLOB('Growth adalah tipe investor yang memiliki toleransi risiko menengah ke tinggi. tergolong cukup berani mengambil risiko berinvestasi untuk mendapatkan return yang lebih tinggi.'),
+        'UNKNOWN',
+        0
+    );
