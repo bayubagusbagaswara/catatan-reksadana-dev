@@ -18,7 +18,7 @@ INSERT INTO PARAMETER_MANAGEMENT_SERVICE.CONTENT_PARAMETER (
     )
 VALUES (
         'SYSTEM',
-        TIMESTAMP '2023-07-12 09:02:00',
+        TIMESTAMP '2023-07-27 14:52:00',
         'Reksa Dana Risk Profle Conservative',
         NULL,
         NULL,
